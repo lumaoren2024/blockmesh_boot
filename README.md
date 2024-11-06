@@ -8,7 +8,7 @@ blockmesh_boot
 blockmesh注册：https://app.blockmesh.xyz/register?invite_code=472117a5-b80c-4597-a373-703b7df83589
 
 视频教程
-youtube地址
+youtube地址：https://youtu.be/kRtGGPUn5Ic
 
 ===教程开始===
 ## 1、安装virtualenv，virtualenv 是一个用于创建隔离 Python 环境的工具，它的主要作用是让你在项目中使用独立的 Python 依赖，而不会影响到系统或其他项目。具体来说，virtualenv 有以下几个重要作用：隔离项目依赖，保护全局环境，方便迁移和部署，多版本 Python 管理
