@@ -5,6 +5,8 @@ blockmesh_boot
 
 脚本不开源，请勿尝试破解。如有害怕数据被盗，请不要使用！
 
+key申请地址：https://lumao.us.kg/blockmesh/index.php
+
 blockmesh注册：https://app.blockmesh.xyz/register?invite_code=472117a5-b80c-4597-a373-703b7df83589
 
 视频教程
